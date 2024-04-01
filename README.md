@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
+<div align="right" style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 - 🔭 I’m currently working on **Chef AI**
 
