@@ -1,23 +1,24 @@
+Explain
 <h1 align="center">Hi 👋, I'm Krupesh Vachhani</h1>
-<h3 align="center">A passionate Software Developer 🐧 from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
-
-<p align="right"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl5YjBqeHo5Z3VtbWR0YjZvNnNzMXRjaHk3ZjB3emt0ZmhkZW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" alt="krupeshvachhani" /> </p>
-
-- 🔭 I’m currently working on **Chef AI**
-
-- 🌱 I’m currently learning **NextJS, LangChain, GenAI**
-
-- 👨‍💻 All of my projects are available at [www.krupesh.dev](www.krupesh.dev)
-
-- 💬 Ask me about **React, NodeJS, ExpressJS,MongoDB, AWS, Deployment...**
-
-- 📫 How to reach me **vachhani.krupesh@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1H7jnMs0aPwkVlN9h-RnpZ-kUy4J9cUnO-Lra0PLsAH0/edit?usp=sharing](https://docs.google.com/document/d/1H7jnMs0aPwkVlN9h-RnpZ-kUy4J9cUnO-Lra0PLsAH0/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I am Penguin🐧😎😁**
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3>A passionate Software Developer 🐧 from India.</h3>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
+    <ul>
+      <li>🔭 I'm currently working on <b>Chef AI</b></li>
+      <li>🌱 I'm currently learning <b>NextJS, LangChain, GenAI</b></li>
+      <li>👨‍💻 All of my projects are available at <a href="www.krupesh.dev" target="_blank" rel="noopener noreferrer">www.krupesh.dev</a></li>
+      <li>💬 Ask me about <b>React, NodeJS, ExpressJS, MongoDB, AWS, Deployment...</b></li>
+      <li>📫 How to reach me <b>vachhani.krupesh@gmail.com</b></li>
+      <li>📄 Know about my experiences <a href="https://docs.google.com/document/d/1H7jnMs0aPwkVlN9h-RnpZ-kUy4J9cUnO-Lra0PLsAH0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a></li>
+      <li>⚡ Fun fact <b>I think I am Penguin🐧😎😁</b></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl5YjBqeHo5Z3VtbWR0YjZvNnNzMXRjaHk3ZjB3emt0ZmhkZW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" alt="krupeshvachhani" width="200" height="200" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
