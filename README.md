@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=krupeshvachhani&label=Profile%20views&color=0e75b6&style=flat" alt="krupeshvachhani" /> </p>
+
 - 🔭 I’m currently working on **Chef AI**
 
 - 🌱 I’m currently learning **NextJS, LangChain, GenAI**
