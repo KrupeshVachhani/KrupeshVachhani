@@ -1,4 +1,3 @@
-Explain
 <h1 align="center">Hi 👋, I'm Krupesh Vachhani</h1>
 
 <div style="display: flex; align-items: center;">
@@ -15,9 +14,7 @@ Explain
       <li>⚡ Fun fact <b>I think I am Penguin🐧😎😁</b></li>
     </ul>
   </div>
-  <div>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl5YjBqeHo5Z3VtbWR0YjZvNnNzMXRjaHk3ZjB3emt0ZmhkZW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" alt="krupeshvachhani" width="200" height="200" />
-  </div>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl5YjBqeHo5Z3VtbWR0YjZvNnNzMXRjaHk3ZjB3emt0ZmhkZW9vNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" alt="krupeshvachhani" width="200" height="200" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
