@@ -18,7 +18,7 @@
 
   
 
-- 👨‍💻 All of my projects are available at [www.krupesh.dev](www.krupesh.dev)
+- 👨‍💻 All of my projects are available at [krupesh.dev](https://krupesh.dev/)
 
   
 
