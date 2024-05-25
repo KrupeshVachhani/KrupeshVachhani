@@ -14,7 +14,7 @@
 
   
 
-- 🌱 I’m currently learning **NextJS, LangChain, GenAI**
+- 🌱 I’m currently learning **Wordpress, PHP, LangChain, GenAI**
 
   
 
